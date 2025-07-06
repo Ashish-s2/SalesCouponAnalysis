@@ -24,7 +24,7 @@
 
 ##  Screenshots
 
-![Dashboard Banner](banner-image-url-here) <!-- (Optional: Add your own banner) -->
+![Dashboard Banner](banner.png)
 
 ---
 
