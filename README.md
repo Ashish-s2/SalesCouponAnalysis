@@ -86,8 +86,5 @@ Built with ❤️ by Ashish Sahu
 Designed for internships, portfolios, product demos
 
  Let's Connect
-LinkedIn
 
-GitHub
-
-Email
+Email -- 6372671@gmail.com
