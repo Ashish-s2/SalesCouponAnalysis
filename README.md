@@ -2,7 +2,7 @@
 
 
 [![Streamlit App](https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-blueviolet?style=for-the-badge&logo=streamlit)](https://salescouponanalysis-6m4sdouekjgesxevkyrcaj.streamlit.app/)
-[![Connect on LinkedIn](https://img.shields.io/badge/💼%20Ashish%20Sahu-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ashishsahu28)
+[![Connect on LinkedIn](https://img.shields.io/badge/💼%20Ashish%20Sahu-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ashish-sahu-88051224a/)
 
 
 > A feature-rich, production-ready **Streamlit dashboard** for analyzing coupon usage, revenue impact, and regional insights in online retail.  
